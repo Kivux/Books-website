@@ -387,4 +387,8 @@ input::placeholder {
   padding: 0 0 20vmin;
 }
 
+.card h4 {
+  color: black;
+  margin-top: 1rem;
+}
 
