@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://kivux.github.io/Books-website/index.html</loc>
+		<lastmod>2021-12-09</lastmod>
+		<freq>daily</freq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://kivux.github.io/Books-website/books.html</loc>
+		<lastmod>2016-12-08</lastmod>
+		<freq>weekly</freq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://kivux.github.io/Books-website/contact.html</loc>
+		<lastmod>2016-12-07</lastmod>
+		<freq>yearly</freq>
+		<priority>0.60</priority>
+	</url>
+	<url>
+		<loc>https://kivux.github.io/Books-website/about.html</loc>
+		<lastmod>2016-12-06</lastmod>
+		<freq>yearly</freq>
+		<priority>0.30</priority>
+	</url>
+</urlset>
